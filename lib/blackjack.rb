@@ -61,5 +61,3 @@ def runner
   end
 end_game(total)
 end
-    
-puts deal_card
